@@ -1,0 +1,61 @@
+
+ Fitting models using approximations to speed things up...
+
+ ARIMA(2,1,2) with drift         : -3721.186
+ ARIMA(0,1,0) with drift         : -3157.912
+ ARIMA(1,1,0) with drift         : -3677.265
+ ARIMA(0,1,1) with drift         : -3466.388
+ ARIMA(0,1,0)                    : -3164.014
+ ARIMA(1,1,2) with drift         : -3720.56
+ ARIMA(2,1,1) with drift         : -3708.223
+ ARIMA(3,1,2) with drift         : -3719.642
+ ARIMA(2,1,3) with drift         : -3741.457
+ ARIMA(1,1,3) with drift         : -3730.289
+ ARIMA(3,1,3) with drift         : -3770.05
+ ARIMA(4,1,3) with drift         : Inf
+ ARIMA(3,1,4) with drift         : -3764.385
+ ARIMA(2,1,4) with drift         : -3752.55
+ ARIMA(4,1,2) with drift         : -3712.678
+ ARIMA(4,1,4) with drift         : Inf
+ ARIMA(3,1,3)                    : -3776.215
+ ARIMA(2,1,3)                    : -3747.648
+ ARIMA(3,1,2)                    : -3725.835
+ ARIMA(4,1,3)                    : Inf
+ ARIMA(3,1,4)                    : -3770.517
+ ARIMA(2,1,2)                    : -3727.381
+ ARIMA(2,1,4)                    : -3758.744
+ ARIMA(4,1,2)                    : -3718.87
+ ARIMA(4,1,4)                    : Inf
+
+ Now re-fitting the best model(s) without approximations...
+
+ ARIMA(3,1,3)                    : -3785.207
+
+ Best model: ARIMA(3,1,3)                    
+
+[1] "*** ARIMA Model ***"
+Series: train 
+ARIMA(3,1,3) 
+
+Coefficients:
+          ar1     ar2     ar3     ma1      ma2
+      -0.4953  0.6839  0.6569  1.2343  -0.0013
+s.e.   0.0451  0.0301  0.0379  0.0462   0.0770
+          ma3
+      -0.5356
+s.e.   0.0418
+
+sigma^2 = 2.337e-05:  log likelihood = 1914.28
+AIC=-3814.55   AICc=-3814.32   BIC=-3785.21
+
+Training set error measures:
+                        ME        RMSE
+Training set -2.191223e-06 0.004799596
+                     MAE        MPE     MAPE
+Training set 0.002617481 0.04869172 0.647706
+                 MASE         ACF1
+Training set 0.456859 -0.006601284
+[1] ""
+[1] "Processing time *************"
+elapsed 
+   3.08 

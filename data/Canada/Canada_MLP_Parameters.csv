@@ -1,0 +1,2 @@
+"bestPar.lag","bestPar.optim","bestPar.actfun","bestPar.nhid","MSE_min","proc_time"
+5,"adam","sigmoid",20,0.213051326156178,466.229999999996

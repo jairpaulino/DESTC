@@ -1,0 +1,59 @@
+
+ Fitting models using approximations to speed things up...
+
+ ARIMA(2,1,2) with drift         : -4073.287
+ ARIMA(0,1,0) with drift         : -3655.587
+ ARIMA(1,1,0) with drift         : -4064.874
+ ARIMA(0,1,1) with drift         : -3891.041
+ ARIMA(0,1,0)                    : -3660.128
+ ARIMA(1,1,2) with drift         : -4079.318
+ ARIMA(0,1,2) with drift         : -3961.299
+ ARIMA(1,1,1) with drift         : -4085.257
+ ARIMA(2,1,1) with drift         : -4078.112
+ ARIMA(2,1,0) with drift         : -4076.598
+ ARIMA(1,1,1)                    : -4091.425
+ ARIMA(0,1,1)                    : -3896.18
+ ARIMA(1,1,0)                    : -4070.909
+ ARIMA(2,1,1)                    : -4084.281
+ ARIMA(1,1,2)                    : -4085.49
+ ARIMA(0,1,2)                    : -3966.781
+ ARIMA(2,1,0)                    : -4082.72
+ ARIMA(2,1,2)                    : -4079.461
+
+ Now re-fitting the best model(s) without approximations...
+
+ ARIMA(1,1,1)                    : -4101.16
+
+ Best model: ARIMA(1,1,1)                    
+
+[1] "*** ARIMA Model ***"
+Series: train 
+ARIMA(1,1,1) 
+
+Coefficients:
+         ar1      ma1
+      0.8675  -0.3112
+s.e.  0.0272   0.0510
+
+sigma^2 = 2.973e-05:  log likelihood = 2060.03
+AIC=-4114.05   AICc=-4114.01   BIC=-4101.16
+
+Training set error measures:
+                      ME
+Training set 8.49126e-05
+                    RMSE
+Training set 0.005437459
+                     MAE
+Training set 0.001947494
+                    MPE
+Training set 0.04866034
+                  MAPE
+Training set 0.4298083
+                  MASE
+Training set 0.4645803
+                    ACF1
+Training set 0.007869459
+[1] ""
+[1] "Processing time *************"
+elapsed 
+   0.58 

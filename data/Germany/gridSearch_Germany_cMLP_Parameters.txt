@@ -1,0 +1,7 @@
+[1] "Iter.: 1 | lag: NA | optim: adam | actfun: sigmoid | nhid: 10 | MSE: 0.01539"
+[1] "1e+10 --> 0.01539 - it: 1"
+[1] "Iter.: 2 | lag: NA | optim: adam | actfun: sigmoid | nhid: 15 | MSE: 0.00381"
+[1] "0.01539 --> 0.00381 - it: 2"
+[1] "Iter.: 3 | lag: NA | optim: adam | actfun: sigmoid | nhid: 20 | MSE: 0.03649"
+[1] "Best parameters: list(lag = NA, optim = \"adam\", actfun = \"sigmoid\", nhid = 15)"
+[1] "Processing time: 150.209999999992"

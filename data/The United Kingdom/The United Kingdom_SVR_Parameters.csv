@@ -1,0 +1,2 @@
+"bestPar.lag","bestPar.kernel","bestPar.gamma","bestPar.cost","bestPar.epsilon","bestPar.tolerance","MSE_min","proc_time"
+10,"linear",1,100,0.01,0.001,0.000316331779944523,422.140000000014

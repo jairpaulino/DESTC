@@ -1,0 +1,1490 @@
+[1] "Iter.: 1 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.62420508456132"
+[1] "1e+10 --> 1.6242050846 - it: 1"
+[1] "Iter.: 2 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.62905928778536"
+[1] "Iter.: 3 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.64463619182096"
+[1] "Iter.: 4 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.63865976751477"
+[1] "Iter.: 5 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.63868659758677"
+[1] "Iter.: 6 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.64398941513673"
+[1] "Iter.: 7 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.68334589279277"
+[1] "Iter.: 8 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.69111823145841"
+[1] "Iter.: 9 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.69112007726756"
+[1] "Iter.: 10 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.69112007726756"
+[1] "Iter.: 11 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.63329044697331"
+[1] "Iter.: 12 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.62865179613196"
+[1] "Iter.: 13 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.64335187086367"
+[1] "Iter.: 14 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.64426249800396"
+[1] "Iter.: 15 | lag: 5 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.64467128103203"
+[1] "Iter.: 16 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.63292736809549"
+[1] "Iter.: 17 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62864319109625"
+[1] "Iter.: 18 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62866640276808"
+[1] "Iter.: 19 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62891271136436"
+[1] "Iter.: 20 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62892125658801"
+[1] "Iter.: 21 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.64474626817744"
+[1] "Iter.: 22 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.6700961104616"
+[1] "Iter.: 23 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.6816914558598"
+[1] "Iter.: 24 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.68167628194257"
+[1] "Iter.: 25 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.68167628194257"
+[1] "Iter.: 26 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.62905906037886"
+[1] "Iter.: 27 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.63503648480737"
+[1] "Iter.: 28 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.64303869920585"
+[1] "Iter.: 29 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.63978101254587"
+[1] "Iter.: 30 | lag: 5 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.6397852693468"
+[1] "Iter.: 31 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.62427100044007"
+[1] "Iter.: 32 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.62914502123078"
+[1] "Iter.: 33 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64210069414158"
+[1] "Iter.: 34 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64951187012521"
+[1] "Iter.: 35 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64970194642774"
+[1] "Iter.: 36 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.6443058338885"
+[1] "Iter.: 37 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.6681811078785"
+[1] "Iter.: 38 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.68360432293392"
+[1] "Iter.: 39 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.68360677169893"
+[1] "Iter.: 40 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.68360677169893"
+[1] "Iter.: 41 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.63335053480395"
+[1] "Iter.: 42 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.62871908270817"
+[1] "Iter.: 43 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.65571019205678"
+[1] "Iter.: 44 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.65214816012593"
+[1] "Iter.: 45 | lag: 5 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.65588289375853"
+[1] "Iter.: 46 | lag: 5 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.62420508456132"
+[1] "Iter.: 47 | lag: 5 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.62905928778536"
+[1] "Iter.: 48 | lag: 5 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.64463619182096"
+[1] "Iter.: 49 | lag: 5 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.63865976751477"
+[1] "Iter.: 50 | lag: 5 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.63868659758677"
+[1] "Iter.: 51 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.64398941513673"
+[1] "Iter.: 52 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.68334589279277"
+[1] "Iter.: 53 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.69111823145841"
+[1] "Iter.: 54 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.69112007726756"
+[1] "Iter.: 55 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.69112007726756"
+[1] "Iter.: 56 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.63329044697331"
+[1] "Iter.: 57 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.62865179613196"
+[1] "Iter.: 58 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.64335187086367"
+[1] "Iter.: 59 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.64426249800396"
+[1] "Iter.: 60 | lag: 5 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.64467128103203"
+[1] "Iter.: 61 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.63292736809549"
+[1] "Iter.: 62 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62864319109625"
+[1] "Iter.: 63 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62866640276808"
+[1] "Iter.: 64 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62891271136436"
+[1] "Iter.: 65 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62892125658801"
+[1] "Iter.: 66 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.64474626817744"
+[1] "Iter.: 67 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.6700961104616"
+[1] "Iter.: 68 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.6816914558598"
+[1] "Iter.: 69 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.68167628194257"
+[1] "Iter.: 70 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.68167628194257"
+[1] "Iter.: 71 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.62905906037886"
+[1] "Iter.: 72 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.63503648480737"
+[1] "Iter.: 73 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.64303869920585"
+[1] "Iter.: 74 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.63978101254587"
+[1] "Iter.: 75 | lag: 5 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.6397852693468"
+[1] "Iter.: 76 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.62427100044007"
+[1] "Iter.: 77 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.62914502123078"
+[1] "Iter.: 78 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64210069414158"
+[1] "Iter.: 79 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64951187012521"
+[1] "Iter.: 80 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64970194642774"
+[1] "Iter.: 81 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.6443058338885"
+[1] "Iter.: 82 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.6681811078785"
+[1] "Iter.: 83 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.68360432293392"
+[1] "Iter.: 84 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.68360677169893"
+[1] "Iter.: 85 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.68360677169893"
+[1] "Iter.: 86 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.63335053480395"
+[1] "Iter.: 87 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.62871908270817"
+[1] "Iter.: 88 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.65571019205678"
+[1] "Iter.: 89 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.65214816012593"
+[1] "Iter.: 90 | lag: 5 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.65588289375853"
+[06:27:41] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 91 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.664421761725961"
+[1] "1.6242050846 --> 0.6644217617 - it: 91"
+[06:27:41] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 92 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.667684946145265"
+[06:27:42] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 93 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.652846200277775"
+[1] "0.6644217617 --> 0.6528462003 - it: 93"
+[06:27:42] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 94 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.653633942547234"
+[06:27:42] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 95 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.665695953353101"
+[06:27:42] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 96 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 97 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 98 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 99 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 100 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 101 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.41813402024953"
+[06:27:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 102 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.42135696819702"
+[06:27:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 103 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.40338391601857"
+[06:27:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 104 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.40881300732778"
+[06:27:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 105 | lag: 5 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.42097703015879"
+[06:27:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 106 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.999694330744334"
+[06:27:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 107 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.997891017563385"
+[06:27:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 108 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.996326759930534"
+[06:27:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 109 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.98894895440766"
+[06:27:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 110 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.994295756758945"
+[06:27:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 111 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 112 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 113 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 114 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 115 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 116 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.60776400471167"
+[06:27:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 117 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.60821816496968"
+[06:27:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 118 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.60884963503162"
+[06:27:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 119 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.60626659015835"
+[06:27:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 120 | lag: 5 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.60410582694913"
+[06:27:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 121 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.693859020185424"
+[06:27:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 122 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.688648051290865"
+[06:27:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 123 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.696270447845581"
+[06:27:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 124 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.692553301403287"
+[06:27:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 125 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.691337928625653"
+[06:27:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 126 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 127 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 128 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 129 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 130 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22690316734873"
+[06:27:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 131 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.43201473122415"
+[06:27:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 132 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.42967072431987"
+[06:27:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 133 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.43782328436842"
+[06:27:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 134 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.43813669957661"
+[06:27:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 135 | lag: 5 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.43786124424217"
+[1] "Iter.: 136 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.63232271296995"
+[1] "Iter.: 137 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.65002366213747"
+[1] "Iter.: 138 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.6741776222689"
+[1] "Iter.: 139 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.66552791134762"
+[1] "Iter.: 140 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.66555526484997"
+[1] "Iter.: 141 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.63749830215331"
+[1] "Iter.: 142 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.71826106178452"
+[1] "Iter.: 143 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.73561035190552"
+[1] "Iter.: 144 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.73577519977933"
+[1] "Iter.: 145 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.73577519977933"
+[1] "Iter.: 146 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.63329101648283"
+[1] "Iter.: 147 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.65546301078207"
+[1] "Iter.: 148 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67205458456765"
+[1] "Iter.: 149 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.6675931899446"
+[1] "Iter.: 150 | lag: 7 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.66615296234384"
+[1] "Iter.: 151 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.63292803777191"
+[1] "Iter.: 152 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65410731979036"
+[1] "Iter.: 153 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65457129042922"
+[1] "Iter.: 154 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65687355373305"
+[1] "Iter.: 155 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65600857620937"
+[1] "Iter.: 156 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.64450880742245"
+[1] "Iter.: 157 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.67010124287255"
+[1] "Iter.: 158 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70226249963843"
+[1] "Iter.: 159 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70226476500409"
+[1] "Iter.: 160 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70226476500409"
+[1] "Iter.: 161 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.62905894200023"
+[1] "Iter.: 162 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.66432537342944"
+[1] "Iter.: 163 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67648257582206"
+[1] "Iter.: 164 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67041319651786"
+[1] "Iter.: 165 | lag: 7 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.6764875396352"
+[1] "Iter.: 166 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.63238319230054"
+[1] "Iter.: 167 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.65010641179742"
+[1] "Iter.: 168 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.66729529539903"
+[1] "Iter.: 169 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64918278026281"
+[1] "Iter.: 170 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.6490308263216"
+[1] "Iter.: 171 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.6434898754175"
+[1] "Iter.: 172 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.66814672514118"
+[1] "Iter.: 173 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74254121138224"
+[1] "Iter.: 174 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74603517485735"
+[1] "Iter.: 175 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74603517485735"
+[1] "Iter.: 176 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.63335110423128"
+[1] "Iter.: 177 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.65553682432335"
+[1] "Iter.: 178 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.67021127455132"
+[1] "Iter.: 179 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.6745835135542"
+[1] "Iter.: 180 | lag: 7 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.67458344913816"
+[1] "Iter.: 181 | lag: 7 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.63232271296995"
+[1] "Iter.: 182 | lag: 7 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.65002366213747"
+[1] "Iter.: 183 | lag: 7 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.6741776222689"
+[1] "Iter.: 184 | lag: 7 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.66552791134762"
+[1] "Iter.: 185 | lag: 7 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.66555526484997"
+[1] "Iter.: 186 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.63749830215331"
+[1] "Iter.: 187 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.71826106178452"
+[1] "Iter.: 188 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.73561035190552"
+[1] "Iter.: 189 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.73577519977933"
+[1] "Iter.: 190 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.73577519977933"
+[1] "Iter.: 191 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.63329101648283"
+[1] "Iter.: 192 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.65546301078207"
+[1] "Iter.: 193 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67205458456765"
+[1] "Iter.: 194 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.6675931899446"
+[1] "Iter.: 195 | lag: 7 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.66615296234384"
+[1] "Iter.: 196 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.63292803777191"
+[1] "Iter.: 197 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65410731979036"
+[1] "Iter.: 198 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65457129042922"
+[1] "Iter.: 199 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65687355373305"
+[1] "Iter.: 200 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65600857620937"
+[1] "Iter.: 201 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.64450880742245"
+[1] "Iter.: 202 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.67010124287255"
+[1] "Iter.: 203 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70226249963843"
+[1] "Iter.: 204 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70226476500409"
+[1] "Iter.: 205 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70226476500409"
+[1] "Iter.: 206 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.62905894200023"
+[1] "Iter.: 207 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.66432537342944"
+[1] "Iter.: 208 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67648257582206"
+[1] "Iter.: 209 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67041319651786"
+[1] "Iter.: 210 | lag: 7 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.6764875396352"
+[1] "Iter.: 211 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.63238319230054"
+[1] "Iter.: 212 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.65010641179742"
+[1] "Iter.: 213 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.66729529539903"
+[1] "Iter.: 214 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64918278026281"
+[1] "Iter.: 215 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.6490308263216"
+[1] "Iter.: 216 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.6434898754175"
+[1] "Iter.: 217 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.66814672514118"
+[1] "Iter.: 218 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74254121138224"
+[1] "Iter.: 219 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74603517485735"
+[1] "Iter.: 220 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74603517485735"
+[1] "Iter.: 221 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.63335110423128"
+[1] "Iter.: 222 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.65553682432335"
+[1] "Iter.: 223 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.67021127455132"
+[1] "Iter.: 224 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.6745835135542"
+[1] "Iter.: 225 | lag: 7 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.67458344913816"
+[06:28:11] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 226 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.673259560550957"
+[06:28:11] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 227 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.681610094525715"
+[06:28:11] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 228 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.688358528192615"
+[06:28:12] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 229 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.676811090998188"
+[06:28:12] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 230 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.685447685524148"
+[06:28:12] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 231 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:12] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 232 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:12] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 233 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:12] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 234 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:13] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 235 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:13] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 236 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.39858589414422"
+[06:28:13] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 237 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.40734605847488"
+[06:28:13] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 238 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.41266505499293"
+[06:28:13] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 239 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.4100863010091"
+[06:28:13] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 240 | lag: 7 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.41544388735044"
+[06:28:14] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 241 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.892776485910773"
+[06:28:14] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 242 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.891836307594391"
+[06:28:14] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 243 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.90259349309984"
+[06:28:14] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 244 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.90424563264899"
+[06:28:15] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 245 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.896250654147042"
+[06:28:15] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 246 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:15] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 247 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:15] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 248 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:15] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 249 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:15] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 250 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:16] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 251 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.55887964562067"
+[06:28:16] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 252 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.55886591037021"
+[06:28:16] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 253 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.55553692000631"
+[06:28:16] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 254 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.5543795399573"
+[06:28:16] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 255 | lag: 7 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.56120456701725"
+[06:28:16] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 256 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.695811343082818"
+[06:28:17] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 257 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.69201960714956"
+[06:28:17] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 258 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.692573737677622"
+[06:28:17] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 259 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.70151039349964"
+[06:28:17] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 260 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.695898117538661"
+[06:28:17] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 261 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:17] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 262 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:18] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 263 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:18] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 264 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:18] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 265 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22607917154336"
+[06:28:18] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 266 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.41563912647706"
+[06:28:18] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 267 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.43416063033616"
+[06:28:19] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 268 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.42630731622673"
+[06:28:19] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 269 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.42548467366775"
+[06:28:19] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 270 | lag: 7 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.42747632265025"
+[1] "Iter.: 271 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.63684821322659"
+[1] "Iter.: 272 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.67407310034909"
+[1] "Iter.: 273 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.67646464317129"
+[1] "Iter.: 274 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.66550383385613"
+[1] "Iter.: 275 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.66553518861247"
+[1] "Iter.: 276 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.64401144151675"
+[1] "Iter.: 277 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.74642884992274"
+[1] "Iter.: 278 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.74262883624912"
+[1] "Iter.: 279 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.7426288560732"
+[1] "Iter.: 280 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.74262894027436"
+[1] "Iter.: 281 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.63025617072794"
+[1] "Iter.: 282 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67378134767364"
+[1] "Iter.: 283 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67439987760799"
+[1] "Iter.: 284 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67222884709326"
+[1] "Iter.: 285 | lag: 10 | booster: gbtree | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67222884709326"
+[1] "Iter.: 286 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62982724908561"
+[1] "Iter.: 287 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.66459015177548"
+[1] "Iter.: 288 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65643724048236"
+[1] "Iter.: 289 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65137349600686"
+[1] "Iter.: 290 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.6527906186804"
+[1] "Iter.: 291 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.65073070852866"
+[1] "Iter.: 292 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.71375813040773"
+[1] "Iter.: 293 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70696652006856"
+[1] "Iter.: 294 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70696652006856"
+[1] "Iter.: 295 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70696652006856"
+[1] "Iter.: 296 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.63079714716526"
+[1] "Iter.: 297 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67679748512886"
+[1] "Iter.: 298 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67645260304655"
+[1] "Iter.: 299 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67574407871703"
+[1] "Iter.: 300 | lag: 10 | booster: gbtree | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67574409200765"
+[1] "Iter.: 301 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.63691087401773"
+[1] "Iter.: 302 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.67408507494183"
+[1] "Iter.: 303 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.6684965287953"
+[1] "Iter.: 304 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64689542513294"
+[1] "Iter.: 305 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64658291135932"
+[1] "Iter.: 306 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.64406116662078"
+[1] "Iter.: 307 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74584345769361"
+[1] "Iter.: 308 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.7458829239103"
+[1] "Iter.: 309 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74588380713687"
+[1] "Iter.: 310 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74588380713687"
+[1] "Iter.: 311 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.63031025295823"
+[1] "Iter.: 312 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.66817461636414"
+[1] "Iter.: 313 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.66416310919366"
+[1] "Iter.: 314 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.66483118826949"
+[1] "Iter.: 315 | lag: 10 | booster: gbtree | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.66483148375494"
+[1] "Iter.: 316 | lag: 10 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.63684821322659"
+[1] "Iter.: 317 | lag: 10 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.67407310034909"
+[1] "Iter.: 318 | lag: 10 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.67646464317129"
+[1] "Iter.: 319 | lag: 10 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.66550383385613"
+[1] "Iter.: 320 | lag: 10 | booster: dart | lambda: 0 | alpha: 0 | max.depth:  | MSE: 1.66553518861247"
+[1] "Iter.: 321 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.64401144151675"
+[1] "Iter.: 322 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.74642884992274"
+[1] "Iter.: 323 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.74262883624912"
+[1] "Iter.: 324 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.7426288560732"
+[1] "Iter.: 325 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 1.74262894027436"
+[1] "Iter.: 326 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.63025617072794"
+[1] "Iter.: 327 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67378134767364"
+[1] "Iter.: 328 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67439987760799"
+[1] "Iter.: 329 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67222884709326"
+[1] "Iter.: 330 | lag: 10 | booster: dart | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.67222884709326"
+[1] "Iter.: 331 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.62982724908561"
+[1] "Iter.: 332 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.66459015177548"
+[1] "Iter.: 333 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65643724048236"
+[1] "Iter.: 334 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.65137349600686"
+[1] "Iter.: 335 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 1.6527906186804"
+[1] "Iter.: 336 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.65073070852866"
+[1] "Iter.: 337 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.71375813040773"
+[1] "Iter.: 338 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70696652006856"
+[1] "Iter.: 339 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70696652006856"
+[1] "Iter.: 340 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 1.70696652006856"
+[1] "Iter.: 341 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.63079714716526"
+[1] "Iter.: 342 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67679748512886"
+[1] "Iter.: 343 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67645260304655"
+[1] "Iter.: 344 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67574407871703"
+[1] "Iter.: 345 | lag: 10 | booster: dart | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.67574409200765"
+[1] "Iter.: 346 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.63691087401773"
+[1] "Iter.: 347 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.67408507494183"
+[1] "Iter.: 348 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.6684965287953"
+[1] "Iter.: 349 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64689542513294"
+[1] "Iter.: 350 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 1.64658291135932"
+[1] "Iter.: 351 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.64406116662078"
+[1] "Iter.: 352 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74584345769361"
+[1] "Iter.: 353 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.7458829239103"
+[1] "Iter.: 354 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74588380713687"
+[1] "Iter.: 355 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 1.74588380713687"
+[1] "Iter.: 356 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.63031025295823"
+[1] "Iter.: 357 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.66817461636414"
+[1] "Iter.: 358 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.66416310919366"
+[1] "Iter.: 359 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.66483118826949"
+[1] "Iter.: 360 | lag: 10 | booster: dart | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.66483148375494"
+[06:28:42] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 361 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.721751221628277"
+[06:28:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 362 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.743668892373018"
+[06:28:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 363 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.757537596849426"
+[06:28:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 364 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.732991619854725"
+[06:28:43] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 365 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0 | max.depth:  | MSE: 0.718251843608271"
+[06:28:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 366 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 367 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 368 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 369 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 370 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:44] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 371 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.43642260648801"
+[06:28:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 372 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.41601032942072"
+[06:28:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 373 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.41888698735502"
+[06:28:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 374 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.41773741744097"
+[06:28:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 375 | lag: 10 | booster: gblinear | lambda: 0 | alpha: 0.01 | max.depth:  | MSE: 1.40640039234624"
+[06:28:45] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 376 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.850689592942747"
+[06:28:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 377 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.848601244298561"
+[06:28:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 378 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.835261653996725"
+[06:28:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 379 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.84209750099396"
+[06:28:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 380 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0 | max.depth:  | MSE: 0.829826603174576"
+[06:28:46] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 381 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 382 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 383 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 384 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 385 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:47] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 386 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.54316234765268"
+[06:28:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 387 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.53597143570743"
+[06:28:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 388 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.53807838667069"
+[06:28:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 389 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.54788855285254"
+[06:28:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 390 | lag: 10 | booster: gblinear | lambda: 0.1 | alpha: 0.01 | max.depth:  | MSE: 1.54450994331191"
+[06:28:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 391 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.727519846446596"
+[06:28:48] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 392 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.726335148817399"
+[06:28:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 393 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.735040346460577"
+[06:28:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 394 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.744745113894919"
+[06:28:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 395 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0 | max.depth:  | MSE: 0.737490028719401"
+[06:28:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 396 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 397 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:49] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 398 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:50] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 399 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:50] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 400 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.1 | max.depth:  | MSE: 2.22483263811069"
+[06:28:50] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 401 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.42157256323134"
+[06:28:50] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 402 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.43571696872366"
+[06:28:51] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 403 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.42340436499337"
+[06:28:51] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 404 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.44123552276638"
+[06:28:51] WARNING: amalgamation/../src/learner.cc:627: 
+Parameters: { "max_depth" } might not be used.
+
+  This could be a false alarm, with some parameters getting used by language bindings but
+  then being mistakenly passed down to XGBoost core, or some parameter actually being used
+  but getting flagged wrongly here. Please open an issue if you find any such cases.
+
+
+[1] "Iter.: 405 | lag: 10 | booster: gblinear | lambda: 0.01 | alpha: 0.01 | max.depth:  | MSE: 1.44294633407314"
+[1] "Best parameters: list(lag = 5, booster = \"gblinear\", lambda = 0, alpha = 0, max_depth = 6)"
+[1] "Processing time: 96.5800000000163"

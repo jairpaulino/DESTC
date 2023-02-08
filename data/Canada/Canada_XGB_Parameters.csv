@@ -1,0 +1,2 @@
+"bestPar.lag","bestPar.booster","bestPar.lambda","bestPar.alpha","bestPar.max_depth","MSE_min","proc_time"
+5,"gblinear",0,0,10,0.125170684410439,80.9600000000064

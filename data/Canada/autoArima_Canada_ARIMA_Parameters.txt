@@ -1,0 +1,56 @@
+
+ Fitting models using approximations to speed things up...
+
+ ARIMA(2,1,2) with drift         : -3780.762
+ ARIMA(0,1,0) with drift         : -3350.054
+ ARIMA(1,1,0) with drift         : -3642.927
+ ARIMA(0,1,1) with drift         : -3504.259
+ ARIMA(0,1,0)                    : -3356.23
+ ARIMA(1,1,2) with drift         : -3769.63
+ ARIMA(2,1,1) with drift         : -3762.215
+ ARIMA(3,1,2) with drift         : -3787.51
+ ARIMA(3,1,1) with drift         : -3767.461
+ ARIMA(4,1,2) with drift         : -3759.504
+ ARIMA(3,1,3) with drift         : -3757.204
+ ARIMA(2,1,3) with drift         : -3783.211
+ ARIMA(4,1,1) with drift         : -3762.757
+ ARIMA(4,1,3) with drift         : -3778.008
+ ARIMA(3,1,2)                    : -3793.701
+ ARIMA(2,1,2)                    : -3786.953
+ ARIMA(3,1,1)                    : -3773.652
+ ARIMA(4,1,2)                    : -3765.693
+ ARIMA(3,1,3)                    : -3780.44
+ ARIMA(2,1,1)                    : -3768.405
+ ARIMA(2,1,3)                    : -3789.402
+ ARIMA(4,1,1)                    : -3768.945
+ ARIMA(4,1,3)                    : -3784.198
+
+ Now re-fitting the best model(s) without approximations...
+
+ ARIMA(3,1,2)                    : -3804.745
+
+ Best model: ARIMA(3,1,2)                    
+
+[1] "*** ARIMA Model ***"
+Series: train 
+ARIMA(3,1,2) 
+
+Coefficients:
+         ar1      ar2     ar3      ma1     ma2
+      1.2499  -0.6404  0.3077  -1.0336  0.6318
+s.e.  0.0763   0.1031  0.0707   0.0664  0.0630
+
+sigma^2 = 2.246e-05:  log likelihood = 1920.94
+AIC=-3829.89   AICc=-3829.71   BIC=-3804.74
+
+Training set error measures:
+                       ME        RMSE
+Training set 1.176054e-05 0.004709885
+                     MAE        MPE      MAPE
+Training set 0.002906587 0.02727665 0.7429974
+                  MASE        ACF1
+Training set 0.5517651 -0.01816305
+[1] ""
+[1] "Processing time *************"
+elapsed 
+    0.8 

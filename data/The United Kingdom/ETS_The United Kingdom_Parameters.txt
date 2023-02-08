@@ -1,0 +1,39 @@
+[1] "*** ETS Model ***"
+ETS(M,Ad,N) 
+
+Call:
+ ets(y = train, biasadj = TRUE, ic = "bic", allow.multiplicative.trend = TRUE) 
+
+  Smoothing parameters:
+    alpha = 0.9999 
+    beta  = 0.6766 
+    phi   = 0.8976 
+
+  Initial states:
+    l = 0.1984 
+    b = 0.0027 
+
+  sigma:  0.0091
+
+      AIC      AICc       BIC 
+-3045.991 -3045.835 -3020.197 
+
+Training set error measures:
+                       ME
+Training set 5.649847e-05
+                    RMSE
+Training set 0.005452427
+                     MAE
+Training set 0.001910715
+                    MPE
+Training set 0.03975861
+                  MAPE
+Training set 0.4208124
+                  MASE
+Training set 0.4558066
+                    ACF1
+Training set -0.03793365
+[1] ""
+[1] "Processing time *************"
+elapsed 
+   4.66 
