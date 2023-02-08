@@ -139,6 +139,7 @@ run = function(countries){
     
     write.csv(results_df, paste0("results/", country, "/", country, "_forecasring_results.csv"))
     write.csv(metrics_test, paste0("results/", country, "/", country, "_metrics.csv"))
-    write.csv(proc_time_end, paste0("results/", country, "/", country, "_proc_time.txt"))    
+    write.csv(proc_time_end, paste0("results/", country, "/", country, "_proc_time.txt")
+              , row.names = F)    
   }
 }
