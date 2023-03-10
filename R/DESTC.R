@@ -1,4 +1,20 @@
-# Identifies the best model for each of the instances
+#' getBestInstanceModel
+#' 
+#' Identifies the best model for each of the instances
+#'
+#' @param df A data frame whose first column contains "Target" values
+#' and other columns are models predictions.
+#' @return a vector with the best model to each instance
+#' @export
+#'
+#' @examples
+#' test_df = data.frame(matrix(ncol=4, nrow=5))
+#' colnames(test_df) = c("Target", "model_1", "model_2", "model_3")
+#' test_df$Target = c(0.24, 0.28, 0.25, 0.23, 0.28)
+#' test_df$model_1 = c(0.25, 0.35, 0.35, 0.23, 0.21)
+#' test_df$model_2 = c(0.27, 0.27, 0.33, 0.35, 0.29)
+#' test_df$model_3 = c(0.29, 0.37, 0.22, 0.37, 0.37)
+#' getBestInstanceModel(test_df)
 getBestInstanceModel = function(df){
   best_model = c();
   for(row in 1:length(df$Target)){
@@ -17,7 +33,36 @@ getBestInstanceModel = function(df){
   return(best_model)
 }
 
-# Get list with the best models to each trend
+#' getOrderedListOfBestModelsByTrend
+#'
+#' Get list with the best models to each trend
+#'
+#' @param df A data frame whose first column contains "Target" values, 
+#' a 'Model' column which indicates the best model to each instance,
+#' and a 'Class' column which indicate the trend classification 
+#' to each instance.
+#' 
+#' @param tbl_len_perc float (default = 1). a value that indicates the 
+#' percentage of data to be used to count the best models by trend class.
+#'
+#' @return A list that contains three ranks with the best model to
+#' each class of trend.
+#' @export
+#'
+#' @examples
+#' test_df = data.frame(matrix(ncol=4, nrow=10))
+#' colnames(test_df) = c("Target", "model_1", "model_2", "model_3")
+#' test_df$Target = c(0.24, 0.28, 0.25, 0.23, 0.28, 0.24, 0.28, 0.25, 0.23, 0.28)
+#' test_df$model_1 = c(0.25, 0.35, 0.35, 0.23, 0.21, 0.25, 0.35, 0.35, 0.23, 0.21)
+#' test_df$model_2 = c(0.27, 0.27, 0.33, 0.35, 0.29, 0.27, 0.27, 0.33, 0.35, 0.29)
+#' test_df$model_3 = c(0.29, 0.37, 0.22, 0.37, 0.37, 0.29, 0.37, 0.22, 0.37, 0.37)
+#' test_df$Model = best_models; lag = 5
+#' sliding_windows_df = getSlidingWindows_wTrendAnalysis(test_df$Target
+#'                                                    , w = lag, running_mean = 1
+#'                                                    , nStepAhead = 1, alpha = 0.5)
+#' test_df$Class[(lag+1):length(test_df$Target)] = sliding_windows_df$Class
+#' test_df = na.omit(test_df)
+#' getOrderedListOfBestModelsByTrend(test_df, tbl_len_perc = 1)
 getOrderedListOfBestModelsByTrend = function(df, tbl_len_perc = 1){
   #df = train_df
   none_df = df %>% filter(Class == "None")
@@ -51,11 +96,28 @@ getOrderedListOfBestModelsByTrend = function(df, tbl_len_perc = 1){
   return(rtr)
 }
 
-# Combines the k predictions based on the specified method (mean, or median)
-ensemblingModels = function(ensemble_method = "median", predict){
+#' ensemblingModels
+#'
+#' Combines the k predictions based on the specified method (mean, or median)
+#'
+#' @param ensemble_method Character (default = "median"). A ensemble method 
+#' ("median", "mean").
+#' @param forecasts A data frame with values to be combined (by rows).
+#'
+#' @return Combined values.
+#' @export
+#'
+#' @examples
+#' test_df = data.frame(matrix(ncol=3, nrow=5))
+#' colnames(test_df) = c("model_1", "model_2", "model_3")
+#' test_df$model_1 = c(0.25, 0.35, 0.35, 0.23, 0.21)
+#' test_df$model_2 = c(0.27, 0.27, 0.33, 0.35, 0.29)
+#' test_df$model_3 = c(0.29, 0.37, 0.22, 0.37, 0.37)
+#' ensemblingModels(ensemble_method = "median", forecasts = test_df)
+ensemblingModels = function(ensemble_method = "median", forecasts){
   ensemble = switch(ensemble_method
-                    , "median" = rowMedians(as.matrix(predict))
-                    , "mean" = rowMeans(as.matrix(predict)))
+                    , "median" = rowMedians(as.matrix(forecasts))
+                    , "mean" = rowMeans(as.matrix(forecasts)))
   return(ensemble)
 }
 
