@@ -1,3 +1,11 @@
-Package: foo
+Package: destc
+Type: Package
+Title: Dynamic Ensemble Selection Based on Trend Classification
+Version: 0.1.1
+Author: Jair Sales
+Maintainer: Jair Sales <jps4@cin.ufpe.br>
+Description: DES model.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
 RoxygenNote: 7.2.3
-Version: 1.0.0
