@@ -29,7 +29,7 @@ A data frame with sliding windows and trend analysis values.
  p-value, S is the MK statists, and Class is the trend classification.
 }
 \description{
-Creates a matrix based on the sliding window technique (w=lag)
+Creates a matrix based on the sliding window technique \(w=lag\)
 and classifies the trend of each instance based on mk.test().
 }
 \examples{

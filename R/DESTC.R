@@ -1,6 +1,6 @@
 #' getSlidingWindows_wTrendAnalysis
 #'
-#' Creates a matrix based on the sliding window technique (w=lag)
+#' Creates a matrix based on the sliding window technique \(w=lag\)
 #' and classifies the trend of each instance based on mk.test().
 #'
 #' @param time_series a 'ts' or 'numeric' object.
@@ -13,6 +13,8 @@
 #'  A and B are Ax+B values from a linear regression, mk_pvalue is the MK trend test
 #'  p-value, S is the MK statists, and Class is the trend classification.
 #' @export
+#' @importFrom trend mk.test
+#' @import tidyverse
 #' @examples
 #' ts = AirPassengers
 #' getSlidingWindows_wTrendAnalysis(ts)
@@ -183,6 +185,7 @@ getOrderedListOfBestModelsByTrend = function(df, tbl_len_perc = 1){
 #'
 #' @return Combined values.
 #' @export
+#' @import matrixStats
 #'
 #' @examples
 #' test_df = data.frame(matrix(ncol=3, nrow=5))
@@ -466,6 +469,41 @@ getSE = function(target, forecast){
 }
 
 
+#' createPlot
+#'
+#' Generates a graphic with Target and the pool models
+#'
+#' @param df  A data frame whose first column contains "Target" values
+#' and other columns are models predictions.
+#' @param legend_place Character (default = 'topright'). Legend place.
+#' @param leg_names Character. Legend names.
+#'
+#' @return A plot
+#' @export
+#'
+#' @examples
+#' test_df = data.frame(matrix(ncol=20, nrow=100))
+#' colnames(test_df) = c("Target")
+#' test_df$Target = rexp(100, rate = 0.2)
+#' test_df$model_1 = rexp(100, rate = 0.1)
+#' for(model in 2:20){
+#'   test_df[,model] = rexp(100)
+#'  }
+#'   createPlot(test_df)
+createPlot = function(df, legend_place = "topright"
+                      , leg_names = c('Target', 'Pool')){
+  x_label = "Test set index"
+  y_label = "Observations"
+  plot(df$Target, type="l", xlab=x_label, ylab=y_label)
+  for(model in 2:ncol(df)){#model=12
+    lines(df[model], col='gray')
+  }
+  lines(df['Target'], lwd=2, lty=3)
+  legend("topright", leg_names,
+         col = c(1, 'gray', 'Red'),
+         lwd=2, lty=c(3, 1, 1), inset = 0.01,
+        box.col = NA)
+}
 
 run = function(countries){
   for(country in countries){

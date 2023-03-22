@@ -1,0 +1,59 @@
+---
+title: "Introduction to DESTC"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to DESTC}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+The Dynamic Ensemble Selection based on Trend Classification (DESTC) is a forecast algorithm that selects and combines models based on statistical information about the trend of time series. Its basic idea is to identify the best models to each trend class (i.e.,`None`, `Positive`, and `Negative`) and combine them.
+
+DESTC algorithm uses two data sets. First, the validation one ($Z_V$) is used to create three ranks, each one containing the best models to a specific trend Class. Secondly, to each new instance of the test set ($Z_W$), the DESTC will classify the trend and select and combine the best $k$ models in the respectively rank, previously constructed. The current DESTC version uses two combine methods, `mean` and `median`.
+
+Following, an example is presented. A pool of 52 different models is used to train and forecast COVID-19 time series incidence in Brazil. Based on the generated results, $Z_V$ and $Z_W$ were created.
+
+The validation and test sets ($Z_V$, $Z_W$) have been read from github. They contains 53 columns, being the first one the `target`, and the others 52 models forecasts.
+
+```{r echo=FALSE, results='asis'}
+valid_url = url("https://raw.githubusercontent.com/jairpaulino/DESTC/main/data/Brazil/pool_complete_valid.csv")
+test_url = url("https://raw.githubusercontent.com/jairpaulino/DESTC/main/data/Brazil/pool_complete_test.csv")
+validation_df = read.csv(valid_url)
+test_df = read.csv(test_url)
+head(validation_df[,1:5])
+createPlot(validation_df)
+```
+
+The test set dataframe and plot are:
+
+```{r echo=TRUE, results='asis'}
+head(test_df[1:5])
+createPlot(test_df)
+```
+
+Following, DESTC forecast is created.
+
+```{r echo=TRUE, results='asis'}
+library(destc)
+results_df = data.frame(test_df)
+results_df$DESTC = getDESTC(train_df = validation_df,
+                            test_df = test_df, 
+                            w = 10, alpha = 0.01, 
+                            none_models_number = 3, 
+                            pos_models_number = 3, 
+                            neg_models_number = 3,
+                            ensemble_method = 'mean',
+                            running_mean = 1)
+```
+DESTC plot.
+```{r echo=TRUE, results='asis'}
+createPlot(test_df, leg_names = c("Target", "Pool", "DESTC"))
+lines(results_df$DESTC, col="Red", lwd=2)
+```
