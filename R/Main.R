@@ -19,3 +19,7 @@ countries = list.dirs(path = "data/", full.names = FALSE, recursive = FALSE)
 
 # Create DESTC to each country based on their valid and test pools
 run(countries)
+
+## to do:
+# commentt run
+# create function concatenate
